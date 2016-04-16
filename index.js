@@ -42,6 +42,7 @@ server.on('__EMIT', function (msg) {
                 scope    : msg.scope,
                 subject  : msg.subject,
                 data     : msg.data,
+                error    : msg.error,
                 isReply  : true
             }
             // console.log(JSON.stringify(payload));

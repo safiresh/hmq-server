@@ -1,6 +1,6 @@
 {
   "name": "hmq-server",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "hmq is a library that makes network communication via JSON Queue System This is server",
   "main": "index.js",
   "scripts": {

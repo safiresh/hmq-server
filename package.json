@@ -1,0 +1,24 @@
+{
+  "name": "hmq-server",
+  "version": "0.0.2",
+  "description": "hmq is a library that makes network communication via JSON Queue System This is server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:safiresh/hmq-server.git"
+  },
+  "keywords": [
+    "queue",
+    "task",
+    "server"
+  ],
+  "author": "sathish",
+  "license": "ISC",
+  "dependencies": {
+    "shortid": "^2.2.6",
+    "underscore": "^1.8.3"
+  }
+}
